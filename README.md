@@ -63,7 +63,7 @@ The analysis is documented in a Jupyter Notebook (`EDA.ipynb`). To run the noteb
 This EDA provides valuable insights into the sales patterns of the coffee shop, helping to identify popular products and understand seasonal trends. These insights can inform business decisions related to inventory, marketing, and product development.
 
 ## Contact
-For any questions or further information, please contact [Your Name] at [Your Email].
+For any questions or further information, please contact Sonum Punshi at https://zenwave.substack.com/ or https://www.linkedin.com/in/sonumpunshi/
 
 ---
 
